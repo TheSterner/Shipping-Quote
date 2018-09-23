@@ -1,0 +1,7 @@
+C:\Users\Blake\source\repos\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe.config
+C:\Users\Blake\source\repos\shippingQuote\shippingQuote\bin\Debug\shippingQuote.exe
+C:\Users\Blake\source\repos\shippingQuote\shippingQuote\bin\Debug\shippingQuote.pdb
+C:\Users\Blake\source\repos\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\shippingQuote\shippingQuote\obj\Debug\shippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\shippingQuote\shippingQuote\obj\Debug\shippingQuote.exe
+C:\Users\Blake\source\repos\shippingQuote\shippingQuote\obj\Debug\shippingQuote.pdb
